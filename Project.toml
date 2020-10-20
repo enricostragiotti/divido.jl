@@ -1,0 +1,4 @@
+name = "divido"
+uuid = "b366ad8f-a076-4708-9cec-a1a8bfa60877"
+authors = ["Enrico Stragiotti <44843509+enricostragiotti@users.noreply.github.com>"]
+version = "0.1.0"
