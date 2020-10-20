@@ -2,6 +2,3 @@ name = "divido"
 uuid = "b366ad8f-a076-4708-9cec-a1a8bfa60877"
 authors = ["Enrico Stragiotti <44843509+enricostragiotti@users.noreply.github.com>"]
 version = "0.1.0"
-
-[deps]
-GroupSlices = "d853e229-7c7c-56e9-b6be-9a1acc5f13d9"
